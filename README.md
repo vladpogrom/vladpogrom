@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imanov Vladislav
-- 👀 I’m interested in games, freestyle ski, crossfit, travels
+- 👀 I’m interested in games, cats, cars, freestyle ski, crossfit, travels
 - 🌱 I’m currently learning JAVA + Selendie automation testing
 - 📫 How to reach me t.me/vladpogrom
 
