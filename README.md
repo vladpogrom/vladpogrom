@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vladpogrom
+- 👋 Hi, I’m Imanov Vladislav
 - 👀 I’m interested in games, freestyle ski, crossfit, travels
 - 🌱 I’m currently learning JAVA + Selendie automation testing
 - 📫 How to reach me t.me/vladpogrom
